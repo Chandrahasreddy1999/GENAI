@@ -1,0 +1,16 @@
+arxiv
+wikipedia
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+langchain-groq
+faiss-cpu
+sentence-transformers
+chromadb
+pypdf
+duckduckgo-search
+mysql-connector-python
+SQLAlchemy
